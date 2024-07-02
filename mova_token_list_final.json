@@ -1,0 +1,13 @@
+{
+    "name": "MOVA Coin Token List",
+    "tokens": [
+        {
+            "chainId": 1,
+            "address": "0x5055c317f7343bb8819314b23c845d97471007c5",
+            "name": "MOVA Coin",
+            "symbol": "MOVA",
+            "decimals": 9,
+            "logoURI": "https://i.imgur.com/5grvM8G.png"
+        }
+    ]
+}
